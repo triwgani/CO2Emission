@@ -16,7 +16,7 @@ Our exploration is framed by key questions, prompting us to uncover pivotal insi
 ## Dataset
 In order to conduct the analysis, we use the dataset provided by [Maven Analytics](https://mavenanalytics.io/data-playground)
 
-| column |description |
+| **Column** |**Description** |
 | ------ |------ |
 | country |Geographic location. |
 | year |Year of observation. |
